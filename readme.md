@@ -1,8 +1,8 @@
-# nardev
-# vedran@nardev.org
+#### nardev
+#### vedran@nardev.org
 
 
-# This class enables you to easly set/dalete/merge json nodes which could be saved in DB through your ORM
+#### This class enables you to easly set/dalete/merge json nodes which could be saved in DB through your ORM
 
 In this particular case i used it for Laravel project, you could place it in app/[YourClasses] an load it in composer.json through classmap
 
